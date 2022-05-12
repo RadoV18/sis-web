@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: "Open Sans";
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.rounded-card__container {
+    background: #03426e;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 0;
+}

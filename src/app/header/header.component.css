@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+}
+
+.header__image {
+    max-height: 6rem;
+}

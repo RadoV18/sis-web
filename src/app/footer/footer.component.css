@@ -1,0 +1,27 @@
+footer {
+    background: #03426e;
+    padding: 1rem 0;
+    color: white;
+}
+
+footer h1 {
+    text-align: center;
+}
+
+.footer__col-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer__list {
+    list-style: none;
+}
+
+.footer__list li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer__list li a:hover {
+    text-decoration: underline;
+}
